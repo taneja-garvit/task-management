@@ -5,6 +5,8 @@
 $ npm install
 ```
 
+Create a `.env` file  and fill the required values ( `MONGO_URI`, `JWT_SECRET`, `AUTH_USERNAME`, `AUTH_PASSWORD`).
+
 ## Compile and run the project
 
 ```bash
